@@ -1,0 +1,34 @@
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Debug\Ale.exe
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Debug\Ale.pdb
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Categorias.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Form1.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Properties.Resources.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.csproj.GenerateResource.Cache
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.exe
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.pdb
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.csprojResolveAssemblyReference.cache
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Productos.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Clientes.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.NuevoPedido.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.SelectCliente.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Insumos.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Debug\Ale.Resumen.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Debug\Ale.exe.manifest
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Debug\Ale.application
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Debug\Ale.exe
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Debug\Ale.pdb
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.csprojResolveAssemblyReference.cache
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Categorias.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Clientes.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Form1.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Insumos.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.NuevoPedido.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Productos.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Properties.Resources.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.Resumen.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.SelectCliente.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.csproj.GenerateResource.Cache
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.exe.manifest
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.application
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.exe
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Debug\Ale.pdb

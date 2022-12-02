@@ -1,0 +1,40 @@
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Release\Ale.exe
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Release\Ale.pdb
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Categorias.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Clientes.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Form1.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.NuevoPedido.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Productos.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Properties.Resources.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.csproj.GenerateResource.Cache
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.exe
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.pdb
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.SelectCliente.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Release\Ale.exe.manifest
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\bin\Release\Ale.application
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Insumos.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.Resumen.resources
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.exe.manifest
+C:\Users\carad\AppData\Local\Temporary Projects\Ale\obj\x86\Release\Ale.application
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.exe
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.pdb
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Release\Ale.exe.manifest
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Release\Ale.application
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Release\Ale.exe
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\bin\Release\Ale.pdb
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Categorias.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Clientes.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Form1.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Insumos.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.NuevoPedido.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Productos.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Properties.Resources.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.Resumen.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.SelectCliente.resources
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.csproj.GenerateResource.Cache
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.exe.manifest
+C:\Users\carad\documents\visual studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.application
+C:\Users\carad\Documents\Visual Studio 2010\Projects\Ale\Ale\bin\Release\MySql.Data.dll
+C:\Users\carad\Documents\Visual Studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.csproj.AssemblyReference.cache
+C:\Users\carad\Documents\Visual Studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.csproj.CoreCompileInputs.cache
+C:\Users\carad\Documents\Visual Studio 2010\Projects\Ale\Ale\obj\x86\Release\Ale.csproj.CopyComplete
